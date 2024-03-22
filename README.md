@@ -1,5 +1,9 @@
 # REACT-Basics-Part-2
 
+### Live Project - https://react-hook-form-deployment.netlify.app/
+
+* Open the console and check!
+
 * jsx forms
 * Using bootstrap
 *     import 'bootstrap/dist/css/bootstrap.css'
